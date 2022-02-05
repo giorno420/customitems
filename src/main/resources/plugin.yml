@@ -1,0 +1,11 @@
+name: MineFallsItems
+version: '${project.version}'
+main: xyz.minefalls.minefallsitems.Main
+api-version: 1.18
+authors: [ TheGiorno ]
+description: epic custom items plugin for the highly based MineFalls server
+website: https://giorno.is-a-good.dev
+commands:
+  customitem:
+    description: main command for the epic custom item plugin
+    usage: /<command>
